@@ -24,3 +24,18 @@
 <img width="1080" height="1080" alt="8" src="https://github.com/user-attachments/assets/7b0c6e28-dee3-42c9-ad28-80024cf311f4" />
 <img width="1080" height="1080" alt="9" src="https://github.com/user-attachments/assets/790f3735-dec2-4ee5-8d62-3e6037e5db13" />
 
+
+<h2>Functional Components in React</h2>
+
+<img width="1088" height="1088" alt="0" src="https://github.com/user-attachments/assets/6853a197-88a4-4ffd-b838-bd0a7b9283ef" />
+<img width="1088" height="1088" alt="1" src="https://github.com/user-attachments/assets/c79b4598-5573-43b8-8d79-82833452a62e" />
+<img width="1088" height="1088" alt="2" src="https://github.com/user-attachments/assets/76df1b95-a777-4b53-a29a-2b390e7edf7f" />
+<img width="1088" height="1088" alt="3" src="https://github.com/user-attachments/assets/36d662b3-c1ce-4673-a672-78f7039c8e44" />
+<img width="1088" height="1088" alt="4" src="https://github.com/user-attachments/assets/2b409415-b405-4c2c-a4eb-c9e8832b0868" />
+<img width="1088" height="1088" alt="5" src="https://github.com/user-attachments/assets/de676363-fd5c-43c2-af8d-5aff7e0885cf" />
+<img width="1088" height="1088" alt="6" src="https://github.com/user-attachments/assets/999926cf-ba0d-4aeb-bebf-a280d8cb6f15" />
+<img width="1088" height="1088" alt="7" src="https://github.com/user-attachments/assets/c849f5dc-69d2-4d98-a85c-0844af2394a2" />
+<img width="1088" height="1088" alt="8" src="https://github.com/user-attachments/assets/298bb793-53ec-440a-be36-27fc37d7b6b7" />
+
+
+
