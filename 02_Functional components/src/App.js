@@ -1,158 +1,115 @@
-/*
-===========================================
- Intro to React 
-===========================================
 
-About React
-----------------------
-- React is a JavaScript library for building user interfaces.
-- Developed by Facebook.
-- Component-based, reusable, and efficient.
-- Uses a Virtual DOM for fast rendering.
-- Powers web apps, mobile apps (React Native), and more.
-*/
 
-// Example minimal React component
 
-import React from "react";
 
-function App() {
-  return <h1>Hello, React!</h1>;
-}
+// =====================================
+// Functional Components in React
+// =====================================
 
-/*
-Components & JSX
----------------------------
-- Components are the building blocks of a React app.
-- Functional components → recommended modern approach.
-- Class components → legacy, but support lifecycle methods.
-- JSX: lets you write HTML-like syntax inside JavaScript.
-*/
+import React, { useState, useEffect } from "react";
 
-// Functional component
-function Welcome() {
-  return <h1>Hello!</h1>;
-}
-
-/*
-Props & State
-------------------------
-- Props: data passed from parent to child, read-only.
-- Example: <Greeting name="Nour" />
-- State: internal data in a component that can change and trigger re-renders.
-*/
-
-// Props example
-function Greeting(props) {
-  return <h2>Hello, {props.name}!</h2>;
-}
-
-// State example with useState hook
-import { useState } from "react";
-
-function Counter() {
-  const [count, setCount] = useState(0);
+export default function FunctionalComponentsTutorial() {
   return (
-    <>
-      <p>Count: {count}</p>
-      <button onClick={() => setCount(count + 1)}>Increase</button>
-    </>
-  );
-}
-
-/*
-Hooks & Lifecycle
-----------------------------
-- Hooks are the modern way to manage state & side effects in functional components.
-    - useState() → state
-    - useEffect() → side effects & lifecycle behavior
-    - useContext() → global state
-- Class components use lifecycle methods: Mounting, Updating, Unmounting
-*/
-
-import { useEffect } from "react";
-
-function Timer() {
-  useEffect(() => {
-    console.log("Component mounted");
-    return () => console.log("Component unmounted");
-  }, []);
-  return <p>Timer running...</p>;
-}
-
-/*
-Event Handling & Conditional Rendering
--------------------------------------------------
-- React events use camelCase:
-    <button onClick={handleClick}>Click</button>
-- Conditional rendering can be done with ternary or &&
-*/
-
-function LoginButton({ isLoggedIn }) {
-  return (
-    <div>
-      {isLoggedIn ? <h3>Welcome back!</h3> : <button>Login</button>}
+    <div style={{ padding: "20px", fontFamily: "Arial" }}>
+      <h1>Functional Components in React</h1>
+      <p>Open this file to read comments with full details & examples.</p>
     </div>
   );
 }
 
-/*
-Lists & Keys
------------------------
-- Use .map() to render lists of elements.
-- Keys help React identify each element for efficient updates.
+/* 
+=====================================
+Introduction to Functional Components
+=====================================
+- Functional components are JavaScript functions that return JSX.
+- They describe what the UI should look like.
+- Easier to read, test, and maintain.
+- Modern React encourages functional components over class components.
 */
 
-const items = [
-  { id: 1, name: "Apple" },
-  { id: 2, name: "Banana" },
-];
+/*
+=====================================
+Syntax of a Functional Component
+=====================================
+Example:
+*/
+function Greeting(props) {
+  return <h1>Hello, {props.name}!</h1>;
+}
 
-function ItemList() {
+/*
+=====================================
+Props in Functional Components
+=====================================
+Props = arguments passed to components (read-only data).
+Used to make components reusable.
+*/
+function User(props) {
+  return <p>User: {props.username}</p>;
+}
+
+/*
+=====================================
+ State with Hooks (useState)
+=====================================
+Functional components use Hooks for state management.
+*/
+function Counter() {
+  const [count, setCount] = useState(0);
+
   return (
-    <ul>
-      {items.map((item) => (
-        <li key={item.id}>{item.name}</li>
-      ))}
-    </ul>
+    <button onClick={() => setCount(count + 1)}>
+      Count: {count}
+    </button>
   );
 }
 
 /*
-Advanced Concepts
-----------------------------
-- Context API → global state without prop drilling.
-- Lazy loading & Suspense → code splitting.
-- Portals → render outside the main DOM tree.
-- Custom Hooks → reusable logic.
+=====================================
+ useEffect Hook
+=====================================
+Handle side effects like fetching data, timers, or subscriptions.
 */
+function ExampleEffect() {
+  useEffect(() => {
+    console.log("Component mounted!");
 
-// Example Context usage (simplified)
-import { createContext, useContext } from "react";
-const MyContext = createContext("Default Value");
+    return () => {
+      console.log("Cleanup when component unmounts");
+    };
+  }, []);
 
-function ContextExample() {
-  const value = useContext(MyContext);
-  return <p>Context value: {value}</p>;
+  return <p>Check console for useEffect messages</p>;
 }
 
 /*
-Performance & Debugging
-----------------------------------
-- Optimize with React.memo(), useCallback(), useMemo().
-- Use React DevTools to inspect components, props, and state.
-- Keep components small, reusable, and easy to read.
+=====================================
+ Advantages of Functional Components
+=====================================
+- Simpler & shorter syntax
+- No "this" keyword
+- Full Hooks support (state, lifecycle, context)
+- Better performance optimizations
+- Easier to test and debug
 */
 
 /*
- Best Practices & Tips
---------------------------------
-✅ Start with functional components + hooks
-✅ Keep state local unless needed globally
-✅ Avoid unnecessary re-renders
-✅ Use descriptive prop names
-✅ Test components (Jest + React Testing Library)
-✅ Deploy with Netlify, Vercel, or GitHub Pages
+=====================================
+ When to Use Functional Components
+=====================================
+- Stateless components (UI only)
+- Components with Hooks for state/logic
+- Reusable UI blocks (buttons, cards, lists)
+- Default choice in modern React development
 */
 
-export default App;
+/*
+=====================================
+ Summary
+=====================================
+- Functional components = functions returning JSX
+- Props → inputs
+- useState/useEffect → state & lifecycle
+- Hooks make them as powerful as class components
+- Recommended approach since React 16.8+
+*/
