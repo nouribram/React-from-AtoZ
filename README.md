@@ -49,4 +49,14 @@
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/aa9ba91b-1417-4e3c-88ba-05bca66c4ddb" />
 <img width="1080" height="1080" alt="8" src="https://github.com/user-attachments/assets/0fec6db1-1dd9-4d60-ba9a-1009d25a093d" />
 
+<h2>React JSX Syntax</h2>
 
+<img width="1088" height="1088" alt="0" src="https://github.com/user-attachments/assets/e6c066f5-9218-4614-8b8a-bbd8f3d94844" />
+<img width="1088" height="1088" alt="1" src="https://github.com/user-attachments/assets/2e3b417f-a83e-41c2-bd62-7b7143883837" />
+<img width="1088" height="1088" alt="2" src="https://github.com/user-attachments/assets/e2797e66-3226-4429-a472-48e51e820213" />
+<img width="1088" height="1088" alt="3" src="https://github.com/user-attachments/assets/89b4ed18-62e7-4b4b-9958-20d3ed071d6b" />
+<img width="1088" height="1088" alt="4" src="https://github.com/user-attachments/assets/b91f14ab-9651-4942-91ad-402acd872b13" />
+<img width="1088" height="1088" alt="5" src="https://github.com/user-attachments/assets/067882a2-60a6-459a-a118-a5f987b2c092" />
+<img width="1088" height="1088" alt="6" src="https://github.com/user-attachments/assets/a293446a-c7b0-4e56-bb91-3184c4206acb" />
+<img width="1088" height="1088" alt="7" src="https://github.com/user-attachments/assets/e125e999-8b20-447b-aa67-37bb8f629c58" />
+<img width="1088" height="1088" alt="8" src="https://github.com/user-attachments/assets/cf26b893-113b-4fcf-8041-723cf7378b04" />
