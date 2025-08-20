@@ -63,5 +63,5 @@
 
 
 <h2>React Component Communication with Props</h2>
-
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/edfa2b3a-4b3a-484d-a387-aa3de7a132c5" />
 
