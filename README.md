@@ -11,7 +11,7 @@
 <img width="1080" height="1080" alt="8" src="https://github.com/user-attachments/assets/770ccc45-b93f-44ea-a30f-34efe23184fb" />
 <img width="1080" height="1080" alt="9" src="https://github.com/user-attachments/assets/1a6bd684-b978-4f6a-9ed3-0da24b44145a" />
 
-<h2>Intro To React</h2>
+<h3>Intro To React</h3>
 
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/baa7db95-4337-4ac5-acf9-72dd6e11242e" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/2e80db49-905b-4c69-9f11-2a864803ae62" />
