@@ -71,3 +71,14 @@
 <img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/78d0bb48-5183-467d-9ce2-7f45f62ffdba" />
 <img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/0434f223-6128-4876-926f-507794dad065" />
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/8a2e14db-5100-41fe-a78f-97b9a479526e" />
+
+<h2>React Vs Vanilla Js</h2>
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/7bb2a190-dd7c-4346-a23c-4b10bf4df02c" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/816ae22a-7b25-41fa-8183-09f35cb72201" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/a27f1c76-d84c-4c6c-83bd-37691c114631" />
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/bf6ef2af-740f-447b-b3f9-37e3d481a94f" />
+<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/9bb4bc73-7f33-4079-a63d-186b744bef00" />
+<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/529540fe-07c7-412c-8725-f8f5d5241d00" />
+<img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/38d03c8b-d771-46e6-aeeb-b55e1f9aea14" />
+<img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/a779d7e2-9be4-47d6-8826-9c6a7ccfbd67" />
+
