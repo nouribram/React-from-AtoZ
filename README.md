@@ -82,3 +82,14 @@
 <img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/38d03c8b-d771-46e6-aeeb-b55e1f9aea14" />
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/a779d7e2-9be4-47d6-8826-9c6a7ccfbd67" />
 
+<h2>Rendering Lists in React</h2>
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/9a8a992b-3566-4790-9780-e4b9a1029daf" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/649cad89-7752-44a7-a42a-3751c88c53f0" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/60725c64-2021-4568-af3d-d062bd1f3e72" />
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/0f3a1c4f-5c5f-4644-973d-e3b0d2960221" />
+<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/e9a5a1ae-a485-414b-9cb2-2dc6f77a3a6f" />
+<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/a6711dc7-4914-4f7f-a66b-789bb58e00d5" />
+<img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/75701675-b797-4690-8eb3-67b42a307e91" />
+<img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/a2b76f21-eaad-4484-bc0d-a9a93a211411" />
+
+
