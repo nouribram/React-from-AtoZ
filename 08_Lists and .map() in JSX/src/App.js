@@ -116,7 +116,7 @@ function ComponentList() {
 
 
 // ================================
-// Exporting all examples for testing
+// examples 
 // ================================
 export default function App() {
   return (
