@@ -64,6 +64,7 @@
 
 
 <h2>React Component Communication with Props</h2>
+
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/edfa2b3a-4b3a-484d-a387-aa3de7a132c5" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/72079a98-1b45-4d1d-aeed-d4d919f8dd56" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/2b5fb64a-a8a7-4214-99f2-3b1f55e764a6" />
@@ -74,6 +75,7 @@
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/8a2e14db-5100-41fe-a78f-97b9a479526e" />
 
 <h2>React Vs Vanilla Js</h2>
+
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/7bb2a190-dd7c-4346-a23c-4b10bf4df02c" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/816ae22a-7b25-41fa-8183-09f35cb72201" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/a27f1c76-d84c-4c6c-83bd-37691c114631" />
@@ -84,6 +86,7 @@
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/a779d7e2-9be4-47d6-8826-9c6a7ccfbd67" />
 
 <h2>Rendering Lists in React</h2>
+
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/9a8a992b-3566-4790-9780-e4b9a1029daf" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/649cad89-7752-44a7-a42a-3751c88c53f0" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/60725c64-2021-4568-af3d-d062bd1f3e72" />
