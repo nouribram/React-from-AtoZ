@@ -61,7 +61,6 @@
 <img width="1088" height="1088" alt="7" src="https://github.com/user-attachments/assets/e125e999-8b20-447b-aa67-37bb8f629c58" />
 <img width="1088" height="1088" alt="8" src="https://github.com/user-attachments/assets/cf26b893-113b-4fcf-8041-723cf7378b04" />
 
-
 <h2>React Component Communication with Props</h2>
 
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/edfa2b3a-4b3a-484d-a387-aa3de7a132c5" />
