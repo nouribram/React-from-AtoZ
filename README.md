@@ -26,7 +26,6 @@
 
 
 <h2>Functional Components in React</h2>
-
 <img width="1088" height="1088" alt="0" src="https://github.com/user-attachments/assets/6853a197-88a4-4ffd-b838-bd0a7b9283ef" />
 <img width="1088" height="1088" alt="1" src="https://github.com/user-attachments/assets/c79b4598-5573-43b8-8d79-82833452a62e" />
 <img width="1088" height="1088" alt="2" src="https://github.com/user-attachments/assets/76df1b95-a777-4b53-a29a-2b390e7edf7f" />
