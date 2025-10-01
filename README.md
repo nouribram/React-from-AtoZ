@@ -84,7 +84,6 @@
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/a779d7e2-9be4-47d6-8826-9c6a7ccfbd67" />
 
 <h2>Rendering Lists in React</h2>
-
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/9a8a992b-3566-4790-9780-e4b9a1029daf" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/649cad89-7752-44a7-a42a-3751c88c53f0" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/60725c64-2021-4568-af3d-d062bd1f3e72" />
