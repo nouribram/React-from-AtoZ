@@ -91,4 +91,15 @@
 <img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/75701675-b797-4690-8eb3-67b42a307e91" />
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/a2b76f21-eaad-4484-bc0d-a9a93a211411" />
 
+<h2>Keys For React Performance</h2>
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/95dfa3f0-cafb-4e20-9c61-6884132bbbe2" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/18508586-2526-4fb0-add5-6074ef386694" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/7b476c2b-739f-432d-9436-8d07876bb865" />
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/78d19b29-28ee-41f2-8a0c-11721dc9d383" />
+<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/b7693219-0bca-4484-a86a-802f0162eca9" />
+<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/46162564-74d1-4764-bc3d-0ec3d017ad75" />
+<img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/12725fc1-083f-4db5-ba62-ec7e23d7b9da" />
+<img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/d9d5c002-fc26-4d08-bb9d-692de1c77ff0" />
+
+
 
