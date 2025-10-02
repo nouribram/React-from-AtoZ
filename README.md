@@ -12,7 +12,6 @@
 <img width="1080" height="1080" alt="9" src="https://github.com/user-attachments/assets/1a6bd684-b978-4f6a-9ed3-0da24b44145a" />
 
 <h2>Intro To React</h2>
-
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/baa7db95-4337-4ac5-acf9-72dd6e11242e" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/2e80db49-905b-4c69-9f11-2a864803ae62" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/b94a32e5-3f4d-489e-97f2-aa1a33fe4006" />
@@ -26,7 +25,6 @@
 
 
 <h2>Functional Components in React</h2>
-
 <img width="1088" height="1088" alt="0" src="https://github.com/user-attachments/assets/6853a197-88a4-4ffd-b838-bd0a7b9283ef" />
 <img width="1088" height="1088" alt="1" src="https://github.com/user-attachments/assets/c79b4598-5573-43b8-8d79-82833452a62e" />
 <img width="1088" height="1088" alt="2" src="https://github.com/user-attachments/assets/76df1b95-a777-4b53-a29a-2b390e7edf7f" />
@@ -36,7 +34,6 @@
 <img width="1088" height="1088" alt="6" src="https://github.com/user-attachments/assets/999926cf-ba0d-4aeb-bebf-a280d8cb6f15" />
 <img width="1088" height="1088" alt="7" src="https://github.com/user-attachments/assets/c849f5dc-69d2-4d98-a85c-0844af2394a2" />
 <img width="1088" height="1088" alt="8" src="https://github.com/user-attachments/assets/298bb793-53ec-440a-be36-27fc37d7b6b7" />
-
 
 <h2>useState Hook</h2>
 
@@ -62,7 +59,6 @@
 <img width="1088" height="1088" alt="7" src="https://github.com/user-attachments/assets/e125e999-8b20-447b-aa67-37bb8f629c58" />
 <img width="1088" height="1088" alt="8" src="https://github.com/user-attachments/assets/cf26b893-113b-4fcf-8041-723cf7378b04" />
 
-
 <h2>React Component Communication with Props</h2>
 
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/edfa2b3a-4b3a-484d-a387-aa3de7a132c5" />
@@ -86,7 +82,6 @@
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/a779d7e2-9be4-47d6-8826-9c6a7ccfbd67" />
 
 <h2>Rendering Lists in React</h2>
-
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/9a8a992b-3566-4790-9780-e4b9a1029daf" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/649cad89-7752-44a7-a42a-3751c88c53f0" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/60725c64-2021-4568-af3d-d062bd1f3e72" />
