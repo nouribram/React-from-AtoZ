@@ -48,7 +48,6 @@
 <img width="1080" height="1080" alt="8" src="https://github.com/user-attachments/assets/0fec6db1-1dd9-4d60-ba9a-1009d25a093d" />
 
 <h2>React JSX Syntax</h2>
-
 <img width="1088" height="1088" alt="0" src="https://github.com/user-attachments/assets/e6c066f5-9218-4614-8b8a-bbd8f3d94844" />
 <img width="1088" height="1088" alt="1" src="https://github.com/user-attachments/assets/2e3b417f-a83e-41c2-bd62-7b7143883837" />
 <img width="1088" height="1088" alt="2" src="https://github.com/user-attachments/assets/e2797e66-3226-4429-a472-48e51e820213" />
