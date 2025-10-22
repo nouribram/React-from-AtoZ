@@ -118,3 +118,12 @@
 <img width="1080" height="1080" alt="8" src="https://github.com/user-attachments/assets/4117828d-6c43-434a-8c3b-022f3a174daa" />
 <img width="1080" height="1080" alt="9" src="https://github.com/user-attachments/assets/f0024634-d402-46a1-ab20-fde822d83e17" />
 
+<h2>React Styling, UI & Performance Optimization</h2>
+<img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/e376801a-2ee5-4836-b20f-d26fdfa3738e" />
+<img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/2555eedb-6448-46ed-820e-2944cd95581f" />
+<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/44f0a968-d151-48bf-be61-022d231b56f8" />
+<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/adb3e5d9-3a5c-4789-b5a0-92583bd6b4bb" />
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/83c859a7-3816-492c-8e92-84243662bd92" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/4f9a4187-dbd7-48c6-a623-87556789ec4b" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/9184bbd8-f832-4433-9698-0e7035362123" />
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/a339d3b1-5aef-4bea-904c-7ed8ca24a45e" />
